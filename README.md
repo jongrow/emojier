@@ -1,5 +1,6 @@
 #Emoji SDK Guide
 ![sample](./images/sample.gif)
+
 If you want to use the function you need to execute some steps.
 ###Preparation before integration
 ####Register and Apply AppKey
